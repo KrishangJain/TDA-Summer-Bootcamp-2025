@@ -1,0 +1,63 @@
+#image{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin: 20px;
+    float: left;
+}
+body{
+    background-color: rgb(133, 190, 241);
+    font-family: Arial, Helvetica;
+    color: #252424f5;
+}
+h1{
+    text-align: center;
+    display: block;
+    flex: 1;
+    border-radius: 10px;
+}
+header{
+    overflow: hidden;
+    display: flex;
+    border: 4px black solid;
+    align-items: center;
+    background-color: rgb(171, 210, 245);
+    border-radius: 10px;
+}
+#intro{
+    padding-left: 25px;
+    border: 4px black solid;
+    border-top: 0;
+    padding: 10px;
+    margin:0;
+    background-color: rgb(171, 210, 245);
+    border-radius: 10px;
+}
+section{
+    background-color: rgb(171, 210, 245);
+    border-radius: 10px;
+}
+#hobbies{
+    padding: 15px;
+    border: 4px black solid;
+    border-top: 0;
+}
+#projects{
+    padding: 15px;
+    border: 4px black solid;
+    border-top: 0;
+    border-bottom: 0;
+}
+table {
+    border-radius: 10px;
+    width: 100%;
+    border: 4px solid black;
+    border-collapse: collapse;
+    background-color: rgb(171, 210, 245);
+}
+
+th, td{
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;      
+}

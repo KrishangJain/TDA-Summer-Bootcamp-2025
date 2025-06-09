@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: hsl(111, 55%, 34%);
+    font-weight: bold;
+    font-size: 41px;
+    text-decoration:underline dashed;
+    text-decoration-color: rgb(165, 49, 49);
+    background-color: rgb(242, 208, 208);
+    border: 5px solid black;
+}
+p{
+    color: hsl(185, 100%, 50%);
+    font-style: italic;
+    background-color: rgb(75, 40, 40);
+    font-size: 21px;
+}
+a{
+    padding: 10px;
+    margin: 10px;
+    color: rgb(160, 16, 16);
+}
+table{
+    text-align: center;
+}
+th{
+    padding: 10px;
+    margin: 10px;
+}
+td{
+    padding: 10px;
+    margin: 10px;
+}
