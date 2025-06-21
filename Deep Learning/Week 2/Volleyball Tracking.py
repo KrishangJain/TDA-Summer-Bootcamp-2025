@@ -1,7 +1,8 @@
 import cv2 as cv
 import numpy as np
 
-cap = cv.VideoCapture("volleyball.mp4")
+cap = cv.VideoCapture("C:/Users/kresh/OneDrive/Desktop/Coding/repos/TDA-Summer-Bootcamp-2025/Deep Learning/Week 2/volleyball.mp4")
+
 
 while True:
     ret, frame = cap.read()
