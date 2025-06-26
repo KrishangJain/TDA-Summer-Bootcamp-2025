@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.input-area {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input {
+  width: 200px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 6px 10px;
+  margin-left: 5px;
+  font-size: 16px;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+  margin-top: 10px;
+  text-align: center;
+}
+
+li span {
+  display: inline-block;
+  min-width: 200px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
