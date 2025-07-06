@@ -5,30 +5,30 @@
 
 The following tasks were assigned:
 
-  1. HTML Practice Tasks:
+    1. HTML Practice Tasks:
     Build a basic webpage using only HTML that includes:
-  - A heading with your name
-  - short paragraph about yourself
-  - ordered or unordered list of your hobbies
-  - image (from the internet or your own)
-  - table showing your weekly schedule or favorite books/movies
-  - hyperlink to your favorite website
-  - One sentence using subscript (like H₂O) and superscript (like E = mc²)
+    - A heading with your name
+    - short paragraph about yourself
+    - ordered or unordered list of your hobbies
+    - image (from the internet or your own)
+    - table showing your weekly schedule or favorite books/movies
+    - hyperlink to your favorite website
+    - One sentence using subscript (like H₂O) and superscript (like E = mc²)
 
-  2. CSS Practice Task:
+    2. CSS Practice Task:
     Create a new HTML file and style it. Try to:
-  - Change background color and font styles
-  - Style headings and paragraphs
-  - Add padding, margins, and borders
-  - Center content and try different font sizes and colors
+    - Change background color and font styles
+    - Style headings and paragraphs
+    - Add padding, margins, and borders
+    - Center content and try different font sizes and colors
 
-  3. Combined Task – Mini Portfolio Page:
+    3. Combined Task – Mini Portfolio Page:
     Use both HTML and CSS to create a simple personal portfolio that includes:
-  - Your name and a short intro
-  - A profile image
-  - section with hobbies or interests
-  - “Projects” section (can just be placeholder titles)
-  - table of skills or tools you want to learn
-  - Clean, personalized CSS styling to make it visually appealing
+    - Your name and a short intro
+    - A profile image
+    - section with hobbies or interests
+    - “Projects” section (can just be placeholder titles)
+    - table of skills or tools you want to learn
+    - Clean, personalized CSS styling to make it visually appealing
 
 Solutions for all 3 tasks have been uploaded in their respective folders.

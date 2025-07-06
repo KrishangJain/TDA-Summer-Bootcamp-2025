@@ -1,0 +1,13 @@
+# .gitignore
+.ipynb_checkpoints/
+data/
+test data/
+test/
+*.keras
+*.h5
+*.pt
+*.pkl
+*.ckpt
+__pycache__/
+*.log
+.DS_Store
