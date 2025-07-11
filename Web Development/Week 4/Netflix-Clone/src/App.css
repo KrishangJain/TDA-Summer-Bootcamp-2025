@@ -1,0 +1,110 @@
+body,
+.app {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #000;
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  width: 100px;
+}
+
+.header-right {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.language-dropdown {
+  position: relative;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: absolute;
+  background: #111;
+  list-style: none;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  border: 1px solid #444;
+}
+
+.dropdown li {
+  padding: 0.25rem 0.5rem;
+}
+
+.sign-in-btn {
+  background: red;
+  border: none;
+  padding: 0.5rem 1rem;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.hero {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 5rem 2rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.hero h2 {
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.email-form {
+  margin-top: 1.5rem;
+}
+
+.email-form input {
+  padding: 0.75rem;
+  width: 300px;
+  max-width: 90%;
+}
+
+.email-form button {
+  padding: 0.75rem 1rem;
+  background: red;
+  color: white;
+  border: none;
+  font-weight: bold;
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
+
+.footer {
+  padding: 2rem;
+  text-align: center;
+  font-size: 0.875rem;
+}
+
+.footer .links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.footer a {
+  color: #999;
+  text-decoration: none;
+}
