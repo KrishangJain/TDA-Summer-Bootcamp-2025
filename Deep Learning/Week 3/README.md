@@ -12,4 +12,4 @@ Tasks assigned:
     Try all the above mentioned architectures on that too and try 2-3 classical ML models, your notebook in the end should be a comparative analysis of all those models on this
 
 
-Solution for volleyball tracking task has been uploaded, bonus task not attempted.
+Solution for the task has been submitted.

@@ -1,0 +1,41 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# COCO dataset (annotations + images)
+coco/annotations/
+coco/images/
+coco/*.zip
+
+# YOLO training outputs
+runs/
+checkpoints/
+results/
+*.pt
+
+# Logs
+*.log
+*.out
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VSCode/IDE configs
+.vscode/
+.idea/
+*.swp
